@@ -12,21 +12,16 @@ Whether it's a student needing step-by-step explainable feedback or an educator 
 
 ![MasteryFlow Dashboard](assets/dashboard.jpg)
 
-## 🎥 Video Demo
+## ✨ Key Features & Capabilities
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-*(Note: Replace `YOUR_VIDEO_ID` with the actual YouTube video ID for your demo)*
-
-## ✨ New Features
-
-- **Multi-concept question bank**
-- **Difficulty Levels:** Basic / Intermediate / Advanced / Challenge difficulty
-- **Question Types:** Logical, numerical, conceptual and application questions
-- **Mastery-driven question selection**
-- **Explainable feedback**
-- **Teacher dashboard and overrides**
-- **Learner path simulation**
-- **Prerequisite knowledge graph**
+- **🧠 Multi-Concept Question Bank:** A rich repository of questions that span across multiple interconnected topics, encouraging students to synthesize knowledge rather than memorize isolated facts.
+- **📊 Adaptive Difficulty Levels:** The platform categorizes content into Basic, Intermediate, Advanced, and Challenge tiers. It automatically scales the difficulty up or down based on real-time performance.
+- **🧩 Diverse Question Types:** To truly test mastery, questions are dynamically generated in various formats—including logical puzzles, numerical calculations, conceptual theory, and real-world application scenarios.
+- **🎯 Mastery-Driven Question Selection:** The system doesn't just pick questions randomly; it intelligently selects the exact problem needed to bridge a student's specific knowledge gap.
+- **💡 Explainable AI Feedback:** Gone are the days of just "Right" or "Wrong". The integrated AI Mentor provides step-by-step, pedagogical explanations to help students understand their mistakes and learn the underlying concepts.
+- **👨‍🏫 Teacher Dashboard & Overrides:** Educators have full visibility into student progress. They can monitor mastery levels, identify struggling students, and manually override the AI's learning path if necessary.
+- **🛤️ Learner Path Simulation:** Simulates potential learning trajectories, allowing educators to forecast student outcomes and optimize the curriculum structure.
+- **🕸️ Prerequisite Knowledge Graph:** The backbone of the adaptive engine. It maps out how concepts relate to one another, ensuring that a student is never presented with a question if they haven't mastered its prerequisites.
 
 ## 🔄 Workflow Diagram
 
