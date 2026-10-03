@@ -58,3 +58,15 @@ graph TD
    ```bash
    streamlit run app.py
    ```
+
+## 👥 Team Details
+
+- **Vignesh (TL)**
+  - Email: [vigneshsundar272@gmail.com](mailto:vigneshsundar272@gmail.com)
+  - Phone: 6385912348
+- **Vaseekaran.k**
+  - Email: [Vaseekaran4893@gmail.com](mailto:Vaseekaran4893@gmail.com)
+  - Phone: 9384351841
+- **Vishal gowsik**
+  - Email: [vishalgowsik8@gmail.com](mailto:vishalgowsik8@gmail.com)
+  - Phone: 9342748196
