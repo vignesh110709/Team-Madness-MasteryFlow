@@ -1,0 +1,321 @@
+Computer Science
+● EASY LEVEL
+Q1. Which of the following is an input device?
+A. Printer
+B. Speaker
+C. Monitor
+D. Keyboard
+Q2. What does CPU stand for?
+A. Central Processing Unit
+B. Control Processing Unit
+C. Central Program Utility
+D. Computer Personal Unit
+Q3. Which of the following is a high-level programming language?
+A. Python
+B. Machine code
+C. Assembly language
+D. Binary code
+Q4. What is the binary representation of the decimal number 5?
+A. 111
+B. 110
+C. 101
+D. 100
+Q5. Which symbol starts a single-line comment in Python?
+A. /*
+B. --
+C. //
+D. #
+● MEDIUM LEVEL
+Q6. What is the time complexity of binary search on a sorted array of n elements?
+A. O(n log n)
+B. O(n)
+C. O(log n)
+D. O(1)
+Q7. Which data structure follows the LIFO (Last In, First Out) principle?
+A. Linked list
+B. Queue
+C. Stack
+D. Array
+Q8. Which SQL command is used to retrieve data from a table?
+A. SELECT
+B. DELETE
+C. INSERT
+D. UPDATE
+Q9. In the OSI model, which layer is mainly responsible for routing packets between networks?
+A. Transport layer
+B. Network layer
+C. Data Link layer
+D. Session layer
+Q10. What is the output of the Python code: print(len([1, 2, [3, 4]]))?
+A. 5
+B. 2
+C. 3
+D. 4
+● DIFFICULT LEVEL
+Q11. What is the worst-case time complexity of Quick Sort (with a poor pivot choice)?
+A. O(log n)
+B. O(n^2)
+C. O(n log n)
+D. O(n)
+Q12. Which of the following is NOT a necessary condition for deadlock?
+A. Circular wait
+B. Mutual exclusion
+C. Preemption
+D. Hold and wait
+Q13. A full binary tree (every node has 0 or 2 children) has 15 nodes. How many leaf nodes does
+it have?
+A. 8
+B. 6
+C. 7
+D. 9
+Q14. Which traversal of a Binary Search Tree visits the keys in sorted (ascending) order?
+A. Level-order
+B. Postorder
+C. Preorder
+D. Inorder
+Q15. How many edges does a complete undirected graph with n vertices have?
+A. n-1
+B. n(n+1)/2
+C. n^2
+D. n(n-1)/2
+Biology
+● EASY LEVEL
+Q16. Which organelle is known as the powerhouse of the cell?
+A. Mitochondria
+B. Nucleus
+C. Ribosome
+D. Golgi apparatus
+Q17. Which pigment is mainly responsible for photosynthesis in plants?
+A. Chlorophyll
+B. Haemoglobin
+C. Melanin
+D. Keratin
+Q18. Which blood vessels carry blood away from the heart?
+A. Veins
+B. Lymph vessels
+C. Capillaries
+D. Arteries
+Q19. What is the basic structural and functional unit of life?
+A. Atom
+B. Organ
+C. Cell
+D. Tissue
+Q20. Which gas do plants take in from the air for photosynthesis?
+A. Nitrogen
+B. Carbon dioxide
+C. Oxygen
+D. Hydrogen
+● MEDIUM LEVEL
+Q21. Where does protein synthesis take place in the cell?
+A. Lysosomes
+B. Golgi apparatus
+C. Ribosomes
+D. Centrioles
+Q22. In DNA, adenine pairs with which base?
+A. Thymine
+B. Guanine
+C. Cytosine
+D. Uracil
+Q23. During which phase of mitosis do chromosomes line up at the cell's equator?
+A. Metaphase
+B. Prophase
+C. Telophase
+D. Anaphase
+Q24. Which blood group is considered the universal donor for red blood cells?
+A. O negative
+B. AB positive
+C. B negative
+D. A positive
+Q25. Which enzyme unwinds the DNA double helix during replication?
+A. Primase
+B. Helicase
+C. DNA ligase
+D. RNA polymerase
+● DIFFICULT LEVEL
+Q26. What is the net gain of ATP molecules from glycolysis of one glucose molecule?
+A. 0
+B. 2
+C. 4
+D. 36
+Q27. In a cross between two heterozygous parents (Aa x Aa), what fraction of offspring show the
+recessive phenotype?
+A. 3/4
+B. 1/2
+C. 1/8
+D. 1/4
+Q28. Which pair of organelles contains its own circular DNA?
+A. Lysosomes and peroxisomes
+B. Mitochondria and chloroplasts
+C. Golgi apparatus and ER
+D. Ribosomes and centrioles
+Q29. Okazaki fragments are formed during DNA replication on which strand?
+A. The lagging strand
+B. The leading strand
+C. Only on RNA templates
+D. Both strands equally
+Q30. In the Krebs cycle, acetyl-CoA (2 carbons) combines with which 4-carbon compound?
+A. Oxaloacetate
+B. Pyruvate
+C. Citrate
+D. Succinate
+Physics
+● EASY LEVEL
+Q31. What is the SI unit of force?
+A. Joule
+B. Newton
+C. Watt
+D. Pascal
+Q32. What is the approximate speed of light in vacuum?
+A. 3 x 10^8 m/s
+B. 3 x 10^10 m/s
+C. 3 x 10^6 m/s
+D. 3 x 10^5 m/s
+Q33. Which of the following is a vector quantity?
+A. Time
+B. Mass
+C. Speed
+D. Velocity
+Q34. "A body stays at rest or in uniform motion unless acted on by a net force" is which law?
+A. Newton's third law
+B. Newton's second law
+C. Newton's first law
+D. Law of gravitation
+Q35. What is the SI unit of electric current?
+A. Ohm
+B. Volt
+C. Ampere
+D. Coulomb
+● MEDIUM LEVEL
+Q36. A 2 kg mass accelerates at 3 m/s^2. What is the net force acting on it?
+A. 1.5 N
+B. 6 N
+C. 5 N
+D. 9 N
+Q37. Which equation correctly represents Ohm's law?
+A. V = IR
+B. V = R/I
+C. V = I + R
+D. V = I/R
+Q38. What is the kinetic energy of a 4 kg object moving at 5 m/s?
+A. 20 J
+B. 50 J
+C. 25 J
+D. 100 J
+Q39. An object is dropped from rest. Taking g = 10 m/s^2, how far does it fall in 2 seconds?
+A. 40 m
+B. 10 m
+C. 5 m
+D. 20 m
+Q40. The bending of light as it passes from one medium into another is called:
+A. Reflection
+B. Dispersion
+C. Diffraction
+D. Refraction
+● DIFFICULT LEVEL
+Q41. Two resistors of 6 ohm and 3 ohm are connected in parallel. What is the equivalent
+resistance?
+A. 1 ohm
+B. 9 ohm
+C. 2 ohm
+D. 4.5 ohm
+Q42. The escape velocity from a planet's surface depends on:
+A. The mass and radius of the planet only
+B. The mass of the escaping object only
+C. Only the temperature of the planet
+D. The mass of the object and radius of the planet
+Q43. In the photoelectric effect, if the frequency of incident light is increased (above threshold)
+at constant intensity, the maximum kinetic energy of emitted electrons:
+A. Remains unchanged
+B. Becomes zero
+C. Increases
+D. Decreases
+Q44. The length of a simple pendulum is quadrupled. Its time period becomes:
+A. Quadrupled
+B. Doubled
+C. Halved
+D. Unchanged
+Q45. An object is placed at 2F of a convex lens. The image formed is:
+A. Real, inverted and magnified
+B. Real, inverted and the same size
+C. Real, erect and diminished
+D. Virtual, erect and magnified
+Chemistry
+● EASY LEVEL
+Q46. What is the chemical symbol for sodium?
+A. N
+B. S
+C. Na
+D. So
+Q47. What is the pH of pure water at 25 °C?
+A. 14
+B. 1
+C. 7
+D. 0
+Q48. Which gas is the most abundant in Earth's atmosphere?
+A. Carbon dioxide
+B. Nitrogen
+C. Oxygen
+D. Argon
+Q49. What is the atomic number of carbon?
+A. 8
+B. 6
+C. 4
+D. 12
+Q50. Which of the following is a noble gas?
+A. Chlorine
+B. Nitrogen
+C. Oxygen
+D. Argon
+● MEDIUM LEVEL
+Q51. How many moles are present in 36 g of water (molar mass = 18 g/mol)?
+A. 18 mol
+B. 3 mol
+C. 1 mol
+D. 2 mol
+Q52. What type of bond is present in sodium chloride (NaCl)?
+A. Metallic bond
+B. Covalent bond
+C. Hydrogen bond
+D. Ionic bond
+Q53. Which of the following is a strong base?
+A. NaOH
+B. NH3
+C. HCl
+D. CH3COOH
+Q54. In the reaction 2H2 + O2 gives 2H2O, how many moles of water form from 3 mol of O2 (H2 in
+excess)?
+A. 2 mol
+B. 6 mol
+C. 3 mol
+D. 12 mol
+Q55. What is the electronic configuration of sodium (Z = 11)?
+A. 2, 7, 2
+B. 2, 8, 1
+C. 2, 8, 2
+D. 2, 9
+● DIFFICULT LEVEL
+Q56. What is the hybridisation of carbon in ethene (C2H4)?
+A. sp^3d
+B. sp^2
+C. sp^3
+D. sp
+Q57. For N2 + 3H2 <=> 2NH3 (exothermic), increasing the pressure shifts the equilibrium:
+A. Towards the products (NH3)
+B. Towards the reactants
+C. It has no effect
+D. Towards N2 and H2 only
+Q58. What is the oxidation state of manganese in KMnO4?
+A. +2
+B. +7
+C. +4
+D. +6
+Q59. How many sigma and pi bonds are present in ethyne (C2H2)?
+A. 4 sigma and 1 pi
+B. 2 sigma and 3 pi
+C. 5 sigma and 0 pi
+D. 3 sigma and 2 pi
+Q60. What is the pH of a 0.01 M solution of HCl (a strong acid)?
+A. 1
+B. 12
+C. 0.01
+D. 2

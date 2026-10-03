@@ -1,0 +1,60 @@
+1 Easy D Keyboard
+2 Easy A Central Processing Unit
+3 Easy A Python
+4 Easy C 101
+5 Easy D #
+6 Medium C O(log n)
+7 Medium C Stack
+8 Medium A SELECT
+9 Medium B Network layer
+10 Medium C 3
+11 Difficult B O(n2)
+12 Difficult C Preemption
+13 Difficult A 8
+14 Difficult D Inorder
+15 Difficult D n(n-1)/2
+16 Easy A Mitochondria
+17 Easy A Chlorophyll
+18 Easy D Arteries
+19 Easy C Cell
+20 Easy B Carbon dioxide
+21 Medium C Ribosomes
+22 Medium A Thymine
+23 Medium A Metaphase
+24 Medium A O negative
+25 Medium B Helicase
+26 Difficult B 2
+27 Difficult D 1/4
+28 Difficult B Mitochondria and chloroplasts
+29 Difficult A The lagging strand
+30 Difficult A Oxaloacetate
+31 Easy B Newton
+32 Easy A 3 x 108 m/s
+33 Easy D Velocity
+34 Easy C Newton's first law
+35 Easy C Ampere
+36 Medium B 6 N
+37 Medium A V = IR
+38 Medium B 50 J
+39 Medium D 20 m
+40 Medium D Refraction
+41 Difficult C 2 ohm
+42 Difficult A The mass and radius of the planet only
+43 Difficult C Increases
+44 Difficult B Doubled
+45 Difficult B Real, inverted and the same size
+46 Easy C Na
+47 Easy C 7
+48 Easy B Nitrogen
+49 Easy B 6
+50 Easy D Argon
+51 Medium D 2 mol
+52 Medium D Ionic bond
+53 Medium A NaOH
+54 Medium B 6 mol
+55 Medium B 2, 8, 1
+56 Difficult B sp2
+57 Difficult A Towards the products (NH3)
+58 Difficult B +7
+59 Difficult D 3 sigma and 2 pi
+60 Difficult D 2
